@@ -178,28 +178,22 @@ public class Main {
         document.close();
     }
 
-    // Adiciona JDBC e integração com banco de dados
     private static void addToDatabase(ArrayList<String> fieldValues) {
         try {
-            // Estabelece a conexão com o banco de dados MySQL
-            String url = "jdbc:mysql://localhost:3306/nome_do_banco";
-            String username = "seu_nome_de_usuário";
-            String password = "sua_senha";
+            String url = "jdbc:mysql://localhost:3306/trabalho";
+            String username = "root";
+            String password = "@Bcd1234";
             Connection connection = DriverManager.getConnection(url, username, password);
 
-            // Define a consulta SQL para inserir os dados na tabela do banco de dados
             String query = "INSERT INTO nome_da_tabela (nome_passageiro, endereco_partida, horario_partida, endereco_chegada, numero_voo, nome_motorista, modelo_veiculo, placa_veiculo, valor_corrida) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)";
             PreparedStatement preparedStatement = connection.prepareStatement(query);
 
-            // Define os valores dos parâmetros na consulta SQL
             for (int i = 0; i < fieldValues.size(); i++) {
                 preparedStatement.setString(i + 1, fieldValues.get(i));
             }
 
-            // Executa a consulta SQL para inserir os dados no banco de dados
             preparedStatement.executeUpdate();
 
-            // Fecha a conexão com o banco de dados
             connection.close();
         } catch (Exception e) {
             e.printStackTrace();

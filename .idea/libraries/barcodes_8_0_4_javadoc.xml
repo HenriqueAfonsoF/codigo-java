@@ -1,0 +1,55 @@
+<component name="libraryTable">
+  <library name="barcodes-8.0.4-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/barcodes-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/bouncy-castle-adapter-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/bouncy-castle-connector-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/bouncy-castle-fips-adapter-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/commons-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/forms-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/io-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/kernel-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/layout-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/pdfa-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/pdftest-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/pdfua-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/sign-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/styled-xml-parser-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/svg-8.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/barcodes-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/bouncy-castle-adapter-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/bouncy-castle-connector-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/bouncy-castle-fips-adapter-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/commons-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/forms-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/io-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/kernel-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/layout-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/pdfa-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/pdftest-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/pdfua-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/sign-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/styled-xml-parser-8.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/svg-8.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/barcodes-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/bouncy-castle-adapter-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/bouncy-castle-connector-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/bouncy-castle-fips-adapter-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/commons-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/forms-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/io-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/kernel-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/layout-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/pdfa-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/pdftest-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/pdfua-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/sign-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/styled-xml-parser-8.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/iText-Core-8.0.4/svg-8.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
